@@ -1,7 +1,7 @@
 # demo-app
 A Slim 3 Micro framework demo app. Monsters module uses React to make api calls and render the results.
 
-## Requirements
+## Requirements!
 <ul>
 <li>PHP >= 7</li>
 <li>MariaDB or MySQL</li>
